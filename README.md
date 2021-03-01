@@ -53,3 +53,8 @@ Appendix
 libdwarf-dev libbfd-dev libelf-dev libnuma-dev libunwind-dev zlib1g-dev
 lblzma-dev ibpfm4-dev libdw-dev libaudit-dev libssl-dev libslang2-dev
 libgtk2.0-dev libperl-dev binutils-dev libiberty-dev libpython-dev
+
+
+Supplement
+--------
+ubuntu 和其他发行版不同，很多系统管理命令在/usr/bin 下，因此另外创建一个目录用于ubuntu20下
